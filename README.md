@@ -84,10 +84,15 @@ Some results after 350 epochs (run cycleGAN_sunflower2daisy.ipynb on colab)
 # References
 
 https://www.kaggle.com/code/songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo
+
 https://jonathan-hui.medium.com/gan-cyclegan-6a50e7600d7
+
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+
 https://github.com/luoxier/CycleGAN_Tensorlayer
+
 https://ai.plainenglish.io/what-is-cyclegan-do-you-know-its-use-part-1-for-beginners-629d4d76eb42
+
 https://prinsphield.github.io/posts/2017/07/math_view_cyclegan/##:~:text=Limitations%20of%20CycleGAN&text=CycleGAN%20is%20not%20able%20to,shown%20the%20in%20the%20picture.
 
 ```
